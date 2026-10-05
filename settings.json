@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "WoodenMC1",
+    "username": "DAXORAMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "WoodenMC_S_1.aternos.me",
-    "port": 48431,
+    "ip": "DRAXORAMC.aternos.me",
+    "port": 46986",
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to DaxoraSMP!",
+        "Want Any Role Rank In this server join https://discord.gg/MWQxXCSJc"
       ]
     },
     "chat-log": true,
